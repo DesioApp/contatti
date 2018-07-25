@@ -1,0 +1,40 @@
+{
+  "VERSION": 1,
+  "ACTION": {
+    "TITLE": "Categorie contatti",
+    "SUBTITLE": "",
+    "TYPE": "MENU",
+    "MENU": [
+      {
+        "TITLE": "Comune di Desio"
+      },
+      {
+        "TITLE": "Architetti"
+      },
+      {
+        "TITLE": "Falegnami"
+      },
+      {
+        "TITLE": "Medici di Base"
+      },
+      {
+        "TITLE": "Muratori"
+      },
+      {
+        "TITLE": "Ortottisti"
+      },
+      {
+        "TITLE": "Pediatri"
+      },
+      {
+        "TITLE": "Scuole dell'infanzia"
+      },
+      {
+        "TITLE": "Servizi sanitari"
+      },
+      {
+        "TITLE": "Veterinari"
+      }
+    ]
+  }
+}
