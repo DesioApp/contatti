@@ -15,7 +15,34 @@
         "TITLE": "Falegnami"
       },
       {
-        "TITLE": "Medici di Base"
+        "TITLE": "Medici di Base",
+        "ACTION": {
+          "TITLE": "Medici di Base",
+          "SUBTITLE": "",
+          "TYPE": "MENU",
+          "MENU": [
+            {
+              "TITLE": "Dott. ssa Cajani Maria Rita",
+              "VISIBLE": true
+            },
+            {
+              "TITLE": "Dott Casati Mauro",
+              "VISIBLE": true
+            },
+            {
+              "TITLE": "Dott.ssa Natale Irene",
+              "VISIBLE": true
+            },
+            {
+              "TITLE": "Dott.ssa Urbano Margherita",
+              "VISIBLE": true
+            },
+            {
+              "TITLE": "Dott.ssa Vannini Paola Maria",
+              "VISIBLE": true
+            }
+          ]
+        }
       },
       {
         "TITLE": "Muratori"
