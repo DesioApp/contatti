@@ -15,7 +15,16 @@
         "TITLE": "Falegnami"
       },
       {
-        "TITLE": "Medici di Base",
+        "TITLE": "Medici di Base"
+      },
+      {
+        "TITLE": "Muratori"
+      },
+      {
+        "TITLE": "Ortottisti"
+      },
+      {
+        "TITLE": "Pediatri",
         "ACTION": {
           "TITLE": "Medici di Base",
           "SUBTITLE": "",
@@ -43,15 +52,6 @@
             }
           ]
         }
-      },
-      {
-        "TITLE": "Muratori"
-      },
-      {
-        "TITLE": "Ortottisti"
-      },
-      {
-        "TITLE": "Pediatri"
       },
       {
         "TITLE": "Scuole dell'infanzia"
