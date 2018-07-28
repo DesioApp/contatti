@@ -32,7 +32,17 @@
           "MENU": [
             {
               "TITLE": "Dott. ssa Cajani Maria Rita",
-              "VISIBLE": true
+              "VISIBLE": true,
+              "ACTION": {
+                "TITLE": "Dott. ssa Cajani Maria Rita",
+                "SUBTITLE": "Dettagli contatto",
+                "TYPE": "CONTACT",
+                "CONTACT": {
+                  "DATASET": "anagrafiche",
+                  "FOLDER": "pediatri",
+                  "NAME": "cajani_maria_rita.json"
+                }
+              }
             },
             {
               "TITLE": "Dott Casati Mauro",
