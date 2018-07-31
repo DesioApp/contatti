@@ -46,7 +46,15 @@
             },
             {
               "TITLE": "Dott Casati Mauro",
-              "VISIBLE": true
+              "VISIBLE": true,
+              "ACTION": {
+                "TYPE": "MODULE",
+                "MODULE": {
+                  "DATASET": "anagrafiche",
+                  "FOLDER": "pediatri",
+                  "FILE": "casati_mauro.json"
+                }
+              }
             },
             {
               "TITLE": "Dott.ssa Natale Irene",
